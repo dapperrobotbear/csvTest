@@ -18,7 +18,7 @@ File Name,Configuration,Part Number,Qty,State,Description,Revision,Cost,Part Typ
 [ELEC-SRVO-ASME04B-A-06] Output Gear Spacer.SLDPRT,Default,[ELEC-SRVO-ASME04B-A-06] Output Gear Spacer,6,Under Editing,,,,
 [ELEC-SRVO-ASME04B-COMN-00-LWR] Gearbox (Bottom).SLDPRT,Default,[ELEC-SRVO-ASME04B-COMN-00-LWR] Gearbox (Bottom),6,Under Editing,,,,
 [TUPR-C-V2-COMN-01] Front Cross Bar.SLDPRT,Default,[TUPR-C-V2-COMN-01] Front Cross Bar,2,Under Editing,,,,
-[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400),1,Under Editing,"McMaster-Carr ANSI 25 Chain, 12 Teeth, for 1/4\\" Shaft Diameter",,,
+[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400),1,Under Editing,"McMaster-Carr ANSI 25 Chain, 12 Teeth, for 1/4" Shaft Diameter",,,
 [HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m.SLDPRT,Modified (TUPR Neck Drive; Upper),[HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m,2,Under Editing,Threaded Rod M8 x 1m (MCMC 98942A115),,,
 [HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047.SLDPRT,Default,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047,6,Under Editing,Round Shim 1/4\" ID x 3/8\" OD x 0.047\" THK (MCMC 3088A449),,,
 [HDWR-FSTR-NUT] HJNUT M8-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] HJNUT M8-D,4,Under Editing,Hex Jam Nut M8 (MCMC 90710A120),,,
