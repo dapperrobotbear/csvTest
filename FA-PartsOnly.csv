@@ -1,4 +1,4 @@
-﻿File Name,Configuration,Part Number,Qty,State,Description,Revision,Cost,Part Type
+File Name,Configuration,Part Number,Qty,State,Description,Revision,Cost,Part Type
 [TUPR-COVR-00] Triangle.SLDPRT,Default,[TUPR-COVR-00] Triangle,1,Under Editing,,,,
 [TUPR-I-COMN-01] PCB Sled.SLDPRT,Default,[TUPR-I-COMN-01] PCB Sled,1,Under Editing,,,,
 [TUPR-I-COMN-00] Lock Bracket.SLDPRT,Default,[TUPR-I-COMN-00] Lock Bracket,2,Under Editing,,,,
@@ -18,11 +18,11 @@
 [ELEC-SRVO-ASME04B-A-06] Output Gear Spacer.SLDPRT,Default,[ELEC-SRVO-ASME04B-A-06] Output Gear Spacer,6,Under Editing,,,,
 [ELEC-SRVO-ASME04B-COMN-00-LWR] Gearbox (Bottom).SLDPRT,Default,[ELEC-SRVO-ASME04B-COMN-00-LWR] Gearbox (Bottom),6,Under Editing,,,,
 [TUPR-C-V2-COMN-01] Front Cross Bar.SLDPRT,Default,[TUPR-C-V2-COMN-01] Front Cross Bar,2,Under Editing,,,,
-[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400),1,Under Editing,\"McMaster-Carr ANSI 25 Chain, 12 Teeth, for 1/4\"\" Shaft Diameter\",,,
+[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400),1,Under Editing,"McMaster-Carr ANSI 25 Chain, 12 Teeth, for 1/4\" Shaft Diameter",,,
 [HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m.SLDPRT,Modified (TUPR Neck Drive; Upper),[HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m,2,Under Editing,Threaded Rod M8 x 1m (MCMC 98942A115),,,
 [HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047.SLDPRT,Default,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047,6,Under Editing,Round Shim 1/4\" ID x 3/8\" OD x 0.047\" THK (MCMC 3088A449),,,
 [HDWR-FSTR-NUT] HJNUT M8-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] HJNUT M8-D,4,Under Editing,Hex Jam Nut M8 (MCMC 90710A120),,,
-[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm.SLDPRT,Default,[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm,1,Under Editing,\"1611 Series Flanged Ball Bearing (8mm ID x 14mm OD, 5mm Thickness)\",,3.99/2,Purchased
+[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm.SLDPRT,Default,[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm,1,Under Editing,"1611 Series Flanged Ball Bearing (8mm ID x 14mm OD, 5mm Thickness)",,3.99/2,Purchased
 [HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 4.SLDPRT,Default,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 4,5,Under Editing,Unthreaded Spacer 1/4 Screw Size x 1/2\" OD x  1/4\" L (MCMC 92415A862),,,
 [HDWR-BELT] HKK Chain #25 Offset Link with Cotter Pin.SLDPRT,6264K3,6264K3,1,Under Editing,Adding-and-Connecting Link for ANSI Number 25-SS Single Strand Corrosion-Resistant Roller Chain,,,
 [HDWR-BELT] HKK Chain #25 Inner Link.SLDPRT,Default,[HDWR-BELT] HKK Chain #25 Inner Link,57,Under Editing,,,,
@@ -42,7 +42,7 @@
 [HDWR-BJNT] 1 ̸ 4-28 Female RH Ball Joint Rod End.SLDPRT,Simplified,[HDWR-BJNT] 1 ̸ 4-28 Female RH Ball Joint Rod End,2,Under Editing,1/4\"-28 Female Right-Handed Ball Joint Rod End (MCMC 4483T221),,,
 [TUPR-A-A-COMN-02] Printable Bearing Spacer.SLDPRT,Default,[TUPR-A-A-COMN-02] Printable Bearing Spacer,1,Under Editing,,,,
 [TUPR-B-COVR-00] Center Covering.SLDPRT,Default,[TUPR-B-COVR-00] Center Covering,1,Under Editing,,,,
-[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4 x 3 ̸ 8.SLDPRT,Hidden Thread,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4 x 3 ̸ 8,4,Under Editing,\"Female Threaded Hex Standoff 18-8 Stainless Steel, 1/4\"\" Hex, 3/8\"\" Long, 10-32 Thread\",,2.27,Purchased
+[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4 x 3 ̸ 8.SLDPRT,Hidden Thread,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4 x 3 ̸ 8,4,Under Editing,"Female Threaded Hex Standoff 18-8 Stainless Steel, 1/4\" Hex, 3/8\" Long, 10-32 Thread",,2.27,Purchased
 [TUPR-B-COMN-00-V2.0] Shoulder Tube (Input-Inc).SLDPRT,Default,[TUPR-B-COMN-00-V2.0] Shoulder Tube (Input-Inc),1,Under Editing,,,,
 [TUPR-B-COMN-04] Neck Rod Mount Block.SLDPRT,Default,[TUPR-B-COMN-04] Neck Rod Mount Block,2,Under Editing,,,,
 [HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D,7,Under Editing,Nylock Hex Nut 1/4\"-28 (MCMC 97135A215),,,
@@ -66,7 +66,7 @@
 [TUPR-B-COMN-01] Bushing.SLDPRT,Default,[TUPR-B-COMN-01] Bushing,1,Under Editing,,,,
 [TUPR-A-A-COMN-03] Shaft.SLDPRT,Default,[TUPR-A-A-COMN-03] Shaft,1,Under Editing,,,,
 [TUPR-B-A-V2-COMN-00] Hug Housing.SLDPRT,Right,[TUPR-B-A-V2-COMN-00] Hug Housing,1,Under Editing,,,,
-[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 2.SLDPRT,Simple Thread,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 2,6,Under Editing,\"Female Threaded Hex Standoff Aluminum, 1/4\"\" Hex, 2\"\" Long, 8-32 Thread\",,4.17,Purchased
+[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 2.SLDPRT,Simple Thread,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 2,6,Under Editing,"Female Threaded Hex Standoff Aluminum, 1/4\" Hex, 2\" Long, 8-32 Thread",,4.17,Purchased
 [HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12).SLDPRT,Default,[HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12),14,Under Editing,Double-Sealed Ball Bearing 3/4\" ID x 40mm OD x 12mm W (6203-2RS-12),,,
 [TUPR-B-COMN-06] Printable Bushing.SLDPRT,Default,[TUPR-B-COMN-06] Printable Bushing,1,Under Editing,,,,
 [TUPR-B-COMN-03] Lug Spacer.SLDPRT,Default,[TUPR-B-COMN-03] Lug Spacer,2,Under Editing,,,,
@@ -84,7 +84,7 @@
 [HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,0.5,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable),3,Under Editing,2807 Series Stainless Steel Shim,,,
 [NECK-F-RGHT-COMN-00] Upper Block.SLDPRT,Default,[NECK-F-RGHT-COMN-00] Upper Block,1,Under Editing,,,,
 [NECK-F-RGHT-COMN-01] Lower Block.SLDPRT,Default,[NECK-F-RGHT-COMN-01] Lower Block,1,Under Editing,,,,
-[HDWR-GEAR] Finished Bore 16-Tooth Sprocket (MCMC 2737T8).SLDPRT,TUPR Neck Drive,[HDWR-GEAR] Finished Bore 16-Tooth Sprocket (MCMC 2737T8),1,Under Editing,\"BORED SPROCKET. 1/8X1/16\"\"Keyway, with Set Screws\",,31.04,Purchased
+[HDWR-GEAR] Finished Bore 16-Tooth Sprocket (MCMC 2737T8).SLDPRT,TUPR Neck Drive,[HDWR-GEAR] Finished Bore 16-Tooth Sprocket (MCMC 2737T8),1,Under Editing,"BORED SPROCKET. 1/8X1/16\"Keyway, with Set Screws",,31.04,Purchased
 [TUPR-C-A-COMN-03] D-Profile Sprocket Key Plate.SLDPRT,Default,[TUPR-C-A-COMN-03] D-Profile Sprocket Key Plate,4,Under Editing,,,,
 [ELEC-ACTR-LACT4P-A-00] Body.SLDPRT,Default,[ELEC-ACTR-LACT4P-A-00] Body,1,Under Editing,,,,
 [ELEC-ACTR-LACT4P-D-00] Rear Mount.SLDPRT,Aesthetics,[ELEC-ACTR-LACT4P-D-00] Rear Mount,1,Under Editing,,,,
@@ -138,14 +138,14 @@ Tube-125X035_4-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .03
 [HDWR-HYDR-MASTFIT-COMN-03] Flow valve seal.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-03] Flow valve seal,2,Under Editing,,,,
 [HDWR-HYDR-MASTFIT-COMN-00] Main housing.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-00] Main housing,2,Under Editing,,,,
 [HDWR-HYDR-MASTFIT-COMN-05] Internal tooth lock washer.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-05] Internal tooth lock washer,4,Under Editing,,,,
-[HDWR-HYDR-MASTFIT] 1 ̸ 16 Barb Right Angle Fitting (CT0-2-PKG).SLDPRT,Default,[HDWR-HYDR-MASTFIT] 1 ̸ 16 Barb Right Angle Fitting (CT0-2-PKG),4,Under Editing,\"#10-32 to 1/16” ID Hose Connector, PKG of 5\",,9.07,Purchased
+[HDWR-HYDR-MASTFIT] 1 ̸ 16 Barb Right Angle Fitting (CT0-2-PKG).SLDPRT,Default,[HDWR-HYDR-MASTFIT] 1 ̸ 16 Barb Right Angle Fitting (CT0-2-PKG),4,Under Editing,"#10-32 to 1/16” ID Hose Connector, PKG of 5",,9.07,Purchased
 [HDWR-HYDR-MASTFIT-COMN-02] Flow valve.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-02] Flow valve,2,Under Editing,,,,
 [HDWR-HYDR-MASTFIT-COMN-07] Connection valve.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-07] Connection valve,2,Under Editing,,,,
 [HDWR-HYDR-MASTFIT-COMN-04] Connection E-Clip.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-04] Connection E-Clip,2,Under Editing,,,,
 [HDWR-HYDR-MASTFIT-COMN-01] Connection housing.SLDPRT,Default,[HDWR-HYDR-MASTFIT-COMN-01] Connection housing,2,Under Editing,,,,
 [HDWR-HYDR-SLAVEFIT-COMN-03] Gasket (GA-10).SLDPRT,Default,[HDWR-HYDR-SLAVEFIT-COMN-03] Gasket (GA-10),34,Under Editing,,,,
-[HDWR-MISC] Round Rubber Cap (9753K35).SLDPRT,Modified,[HDWR-MISC] Round Rubber Cap (9753K35),2,Under Editing,\"Round Caps for 1/4\"\" to 5/16\"\" OD, 1/2\"\" Inside Height, Black (Pack of 100)\",,4.46,Purchased
-[HDWR-HYDR-MASTFIT] 10-32 Headless Screw Plug (0035-2).SLDPRT,Default,[HDWR-HYDR-MASTFIT] 10-32 Headless Screw Plug (0035-2),6,Under Editing,\"#10-32 Headless Screw Plug, Pack of 10\",,8.93,Purchased
+[HDWR-MISC] Round Rubber Cap (9753K35).SLDPRT,Modified,[HDWR-MISC] Round Rubber Cap (9753K35),2,Under Editing,"Round Caps for 1/4\" to 5/16\" OD, 1/2\" Inside Height, Black (Pack of 100)",,4.46,Purchased
+[HDWR-HYDR-MASTFIT] 10-32 Headless Screw Plug (0035-2).SLDPRT,Default,[HDWR-HYDR-MASTFIT] 10-32 Headless Screw Plug (0035-2),6,Under Editing,"#10-32 Headless Screw Plug, Pack of 10",,8.93,Purchased
 [HDWR-HYDR-MASTFIT] 10-32 X Fitting (15002-5).SLDPRT,Default,[HDWR-HYDR-MASTFIT] 10-32 X Fitting (15002-5),4,Under Editing,Clippard #10-32 “X” Fitting (Pack of 10),,12.26,Purchased
 [HDWR-HYDR-SLAVEFIT-LWR-COMN-00] Needle Valve (FN-32).SLDPRT,Simplified,[HDWR-HYDR-SLAVEFIT-LWR-COMN-00] Needle Valve (FN-32),6,Under Editing,,,,
 [ARM-B-COMN-06] D-Shaft Pulley Mount.SLDPRT,.125\" x 32mm,[ARM-B-COMN-06] D-Shaft Pulley Mount,4,Under Editing,,,,
@@ -181,10 +181,10 @@ Tube-125X035_4-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .03
 [HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D,81,Under Editing,Nylock Thin Hex Nut #8-32 (MCMC 90101A009),,,
 [TUPR-A-COMN-04] Quick-Release Plate.SLDPRT,Default,[TUPR-A-COMN-04] Quick-Release Plate,2,Under Editing,,,,
 [TUPR-A-COMN-02-R] Flare Plate (Right).SLDPRT,Default,[TUPR-A-COMN-02-R] Flare Plate (Right),1,Under Editing,,,,
-[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 16 Screw Size x 3 ̸ 4 x 3 ̸ 8.SLDPRT,92510A794,92510A794,6,Under Editing,\"Aluminum Unthreaded Spacer 3/4\"\" OD, 3/8\"\" Long, for 5/16\"\" Screw Size\",,2.76,Purchased
+[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 16 Screw Size x 3 ̸ 4 x 3 ̸ 8.SLDPRT,92510A794,92510A794,6,Under Editing,"Aluminum Unthreaded Spacer 3/4\" OD, 3/8\" Long, for 5/16\" Screw Size",,2.76,Purchased
 [TUPR-A-COMN-03] Stiffener.SLDPRT,Default,[TUPR-A-COMN-03] Stiffener,2,Under Editing,,,,
 [TUPR-G-V2-A-02-LONG] Angle Iron (Long).SLDPRT,Default,[TUPR-G-V2-A-02-LONG] Angle Iron (Long),2,Under Editing,,,,
-\"[DTL-COVR02-SHRT] Back Covering Details (Lower, Short).SLDPRT\",Default,\"[DTL-COVR02-SHRT] Back Covering Details (Lower, Short)\",1,Under Editing,,,,
+"[DTL-COVR02-SHRT] Back Covering Details (Lower, Short).SLDPRT",Default,"[DTL-COVR02-SHRT] Back Covering Details (Lower, Short)",1,Under Editing,,,,
 [DTL-COVR01-UPR] Side Covering Details (Upper).SLDPRT,Default,[DTL-COVR01-UPR] Side Covering Details (Upper),1,Under Editing,,,,
 [HDWR-MISC] Rubber Bellows 3'' ID.SLDPRT,Default,[HDWR-MISC] Rubber Bellows 3'' ID,1,Under Editing,,,,
 [TUPR-G-V2-A-02-SHRT] Angle Iron (Short).SLDPRT,Default,[TUPR-G-V2-A-02-SHRT] Angle Iron (Short),2,Under Editing,,,,
@@ -192,7 +192,7 @@ Tube-125X035_4-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .03
 [TUPR-G-COMN-00] Spacer.SLDPRT,Default,[TUPR-G-COMN-00] Spacer,1,Under Editing,,,,
 [TUPR-G-V2-A-01-L] Side Panel (Left).SLDPRT,Default,[TUPR-G-V2-A-01-L] Side Panel (Left),1,Under Editing,,,,
 [DTL-COVR00-LEFT] Chest Covering Details (Left).SLDPRT,Default,[DTL-COVR00-LEFT] Chest Covering Details (Left),1,Under Editing,,,,
-\"[DTL-COVR02-LONG] Back Covering Details (Lower, Long).SLDPRT\",Default,\"[DTL-COVR02-LONG] Back Covering Details (Lower, Long)\",1,Under Editing,,,,
+"[DTL-COVR02-LONG] Back Covering Details (Lower, Long).SLDPRT",Default,"[DTL-COVR02-LONG] Back Covering Details (Lower, Long)",1,Under Editing,,,,
 [DTL-COVR01-LWR] Side Covering Details (Lower).SLDPRT,Default,[DTL-COVR01-LWR] Side Covering Details (Lower),1,Under Editing,,,,
 [TUPR-G-COMN-02] Sandwiched Plate.SLDPRT,Default,[TUPR-G-COMN-02] Sandwiched Plate,1,Under Editing,,,,
 [TUPR-G-V2-A-02-MED] Angle Iron (Medium).SLDPRT,Default,[TUPR-G-V2-A-02-MED] Angle Iron (Medium),2,Under Editing,,,,
@@ -235,7 +235,7 @@ Tube-125X035_4-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .03
 [HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,1l,[HEAD-C-COMN-A-04] Vent Fin with Mount,1,Under Editing,All vent fins (1-5) for both left and right side,,,
 [HEAD-C-COMN-A-02] Pivot Strut.SLDPRT,Default,[HEAD-C-COMN-A-02] Pivot Strut,2,Under Editing,,,,
 [HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,3L,[HEAD-C-COMN-A-04] Vent Fin with Mount,1,Under Editing,All vent fins (1-5) for both left and right side,,,
-[HEAD-C-COMN-A-01] Pivot Pin.SLDPRT,Right,[HEAD-C-COMN-A-01] Pivot Pin,10,Under Editing,\"Rotary Shaft 316 Stainless Steel, 5/64\"\" Diameter, 18\"\" Long\",,27.61,Purchased
+[HEAD-C-COMN-A-01] Pivot Pin.SLDPRT,Right,[HEAD-C-COMN-A-01] Pivot Pin,10,Under Editing,"Rotary Shaft 316 Stainless Steel, 5/64\" Diameter, 18\" Long",,27.61,Purchased
 [ELEC-SRVO-HS40] Hitec HS-40.SLDPRT,Default,[ELEC-SRVO-HS40] Hitec HS-40,4,Under Editing,Hitec HS-40 Economy Nano Servo,,$10.49 USD,Purchased
 [HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,5L,[HEAD-C-COMN-A-04] Vent Fin with Mount,1,Under Editing,All vent fins (1-5) for both left and right side,,,
 [HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,2L,[HEAD-C-COMN-A-04] Vent Fin with Mount,1,Under Editing,All vent fins (1-5) for both left and right side,,,
@@ -276,8 +276,8 @@ Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,Body^[ELEC-CONN] Right Angle Hea
 [HDWR-FSTR-CLIP-UK] E-Style Retaining Ring 4 x 9.3 x 0.7.SLDPRT,Default,[HDWR-FSTR-CLIP-UK] E-Style Retaining Ring 4 x 9.3 x 0.7,4,Under Editing,Side-Mount External Retaining Rings,,,
 [HDWR-MISC-OPENXRAIL] 6 inch Rail (565106).SLDPRT,4.95\" Eye Pop Actuator,[HDWR-MISC-OPENXRAIL] 6 inch Rail (565106),2,Under Editing,6.00\" Open X-Rail,,$4.39,Purchased
 [HDWR-MISC-OPENXRAIL] Screw Plate (585718).SLDPRT,Default,[HDWR-MISC-OPENXRAIL] Screw Plate (585718),8,Under Editing,X-Rail Screw Plate (2 pack),,$4.99 / 2 Pack,Purchased
-[HDWR-BRNG-BALL-UK-S] 6mm x 10mm x 3mm (106-2Z).SLDPRT,7804K111,7804K111,4,Under Editing,\"Ball Bearing Shielded, Trade No. 106-2Z, for 6 mm I.D.Shaft\",,$7.91,Purchased
-[HDWR-FSTR-STND] Unthreaded Spacer 6mm x 8mm x 1mm Acetal (1500-0010-0006).SLDPRT,Default,[HDWR-FSTR-STND] Unthreaded Spacer 6mm x 8mm x 1mm Acetal (1500-0010-0006),8,Under Editing,\"1500 Series Plastic Spacer (6mm ID x 8mm OD, 1mm Thick)\",,$2.79 for 12 Pack,Purchased
+[HDWR-BRNG-BALL-UK-S] 6mm x 10mm x 3mm (106-2Z).SLDPRT,7804K111,7804K111,4,Under Editing,"Ball Bearing Shielded, Trade No. 106-2Z, for 6 mm I.D.Shaft",,$7.91,Purchased
+[HDWR-FSTR-STND] Unthreaded Spacer 6mm x 8mm x 1mm Acetal (1500-0010-0006).SLDPRT,Default,[HDWR-FSTR-STND] Unthreaded Spacer 6mm x 8mm x 1mm Acetal (1500-0010-0006),8,Under Editing,"1500 Series Plastic Spacer (6mm ID x 8mm OD, 1mm Thick)",,$2.79 for 12 Pack,Purchased
 [HEAD-J-B-00] End Cap.SLDPRT,Default,[HEAD-J-B-00] End Cap,4,Under Editing,,,,Built
 [HDWR-MISC-OPENXRAIL] 350mm 6mm Lead Screw (3501-0606-0350).SLDPRT,Simple,Default,2,Under Editing,350mm 6mm Lead Screw Lead Pitch 1.33mm Number of Starts 6,,$7.99,Purchased
 [HDWR-MISC-OPENXRAIL] 6mm Lead Screw Nut (545308).SLDPRT,Default,[HDWR-MISC-OPENXRAIL] 6mm Lead Screw Nut (545308),2,Under Editing,6mm Lead Screw Nut for Open X-Rail,,,Purchased
@@ -288,7 +288,7 @@ Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,Body^[ELEC-CONN] Right Angle Hea
 [ELEC-MOTR-14HS201504S] Motor Core.SLDPRT,Default,[ELEC-MOTR-14HS201504S] Motor Core,2,Under Editing,,,,Purchased
 [ELEC-MOTR-14HS201504S] Output Shaft.SLDPRT,Default,[ELEC-MOTR-14HS201504S] Output Shaft,2,Under Editing,,,,Purchased
 [ELEC-MOTR-14HS201504S] Front Motor Cap.SLDPRT,Default,[ELEC-MOTR-14HS201504S] Front Motor Cap,2,Under Editing,,,,Purchased
-[HDWR-MISC] Nylon Spacer 1 ̸ 8 OD.SLDPRT,Default,[HDWR-MISC] Nylon Spacer 1 ̸ 8 OD,4,Under Editing,\"Unthreaded Spacer1/8\"\" OD, 1/8\"\" Long, for Number 2 Screw\",,$9.57  pack of 25,Purchased
+[HDWR-MISC] Nylon Spacer 1 ̸ 8 OD.SLDPRT,Default,[HDWR-MISC] Nylon Spacer 1 ̸ 8 OD,4,Under Editing,"Unthreaded Spacer1/8\" OD, 1/8\" Long, for Number 2 Screw",,$9.57  pack of 25,Purchased
 [HDWR-MISC-OPENXRAIL] Surface Adaptor Bracket (585072).SLDPRT,Eye Pop Articulator,[HDWR-MISC-OPENXRAIL] Surface Adaptor Bracket (585072),4,Under Editing,X-Rail Surface Adaptor Bracket (2 pack),,$1.99 / 2 Pack,Purchased
 [HEAD-J-A-00] Mount Plate.SLDPRT,Default,[HEAD-J-A-00] Mount Plate,1,Under Editing,,,,Built
 [HEAD-COVR-MIL1-COMN-01] Facemask.SLDPRT,Default,[HEAD-COVR-MIL1-COMN-01] Facemask,1,Under Editing,,,,
@@ -484,49 +484,49 @@ Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,Body^[ELEC-CONN] Right Angle Hea
 [ARM-E-A-COMN-02] Middle Plate.SLDPRT,Default,[ARM-E-A-COMN-02] Middle Plate,1,Under Editing,,,,
 [ARM-E-B-A-A-COMN-00-L] Knuckle (Left).SLDPRT,Default,[ARM-E-B-A-A-COMN-00-L] Knuckle (Left),1,Under Editing,,,,
 [HDWR-BRNG-SLV] Flanged Sleeve Bearing 8mm x 14mm x 12mm (2934T122).SLDPRT,2934T122,2934T122,1,Under Editing,Corrosion-Resistant Flanged Sleeve Bearing,,9.07,Purchased
-\"[ARM-B-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT\",Default,\"[ARM-B-LEFT-A-OUTR-00] Side Plate (Left, Outer)\",1,Under Editing,,,,
+"[ARM-B-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Default,"[ARM-B-LEFT-A-OUTR-00] Side Plate (Left, Outer)",1,Under Editing,,,,
 [HDWR-PULL] Timing Belt Idler 6mm x 12mm x 12mm (3413-0001-0001).SLDPRT,Default,[HDWR-PULL] Timing Belt Idler 6mm x 12mm x 12mm (3413-0001-0001),1,Under Editing,Acetal Timing Belt Idler,ANY,2.99/2,Purchased
-[ARM-B-COMN-06] D-Shaft Pulley Mount.SLDPRT,.125\",[ARM-B-COMN-06] D-Shaft Pulley Mount,4,Under Editing,,,,
+[ARM-B-COMN-06] D-Shaft Pulley Mount.SLDPRT,.125",[ARM-B-COMN-06] D-Shaft Pulley Mount,4,Under Editing,,,,
 [ARM-B-COMN-00] Backplate.SLDPRT,Default,[ARM-B-COMN-00] Backplate,1,Under Editing,,,,
 [HDWR-PULL-ARC] Screw Plate.SLDPRT,Default,[HDWR-PULL-ARC] Screw Plate,1,Under Editing,1524 Series Arc-Slot Tensioner Bracket,,,
-[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 5 ̸ 16 x 1 ̸ 8.SLDPRT,92510A520,92510A520,6,Under Editing,\"Aluminum Unthreaded Spacer 5/16\"\" OD, 1/8\"\" Long, for Number 6 Screw Size\",,1.52,Purchased
+[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 5 ̸ 16 x 1 ̸ 8.SLDPRT,92510A520,92510A520,6,Under Editing,"Aluminum Unthreaded Spacer 5/16\" OD, 1/8\" Long, for Number 6 Screw Size",,1.52,Purchased
 [HDWR-FSTR-WASH] 18-8 Stainless Steel Round Shim (98089A389).SLDPRT,98089A389,98089A389,2,Under Editing,18-8 Stainless Steel Round Shim,,11.06/25,Purchased
 mini-maestro-12-channel-usb-servo-controller.SLDPRT,Default,mini-maestro-12-channel-usb-servo-controller,1,Under Editing,,ANY,,
 [ARM-B-A-COMN-02] Finger Pulley.SLDPRT,Default,[ARM-B-A-COMN-02] Finger Pulley,3,Under Editing,,,,Built
-[ELEC-SRVO-GB25] GoBuilda 25-2 (2000-0025-0002).SLDPRT,Default,[ELEC-SRVO-GB25] GoBuilda 25-2 (2000-0025-0002),5,Under Editing,\"2000 Series Dual Mode Servo (25-2, Torque)\",ANY,,
+[ELEC-SRVO-GB25] GoBuilda 25-2 (2000-0025-0002).SLDPRT,Default,[ELEC-SRVO-GB25] GoBuilda 25-2 (2000-0025-0002),5,Under Editing,"2000 Series Dual Mode Servo (25-2, Torque)",ANY,,
 [ELEC-SRVO-HORN] Silvery Servo Horn 25T.SLDPRT,Default,[ELEC-SRVO-HORN] Silvery Servo Horn 25T,3,Under Editing,Silvery Servo Disc for Robot Mechanical Claw,,,
 [ARM-B-A-COMN-01] Pull Plate.SLDPRT,Side Mount,[ARM-B-A-COMN-01] Pull Plate,1,Under Editing,,,,Built
-[HDWR-PULL] Timing HTD 5mm x 24-Tooth Hex Bore (3417-4008-0024).SLDPRT,Default,[HDWR-PULL] Timing HTD 5mm x 24-Tooth Hex Bore (3417-4008-0024),1,Under Editing,\"5mm HTD Pitch Set Screw Pinion Timing Belt Pulley (8mm REX Bore, 24 Tooth)\",,8.99,Purchased
+[HDWR-PULL] Timing HTD 5mm x 24-Tooth Hex Bore (3417-4008-0024).SLDPRT,Default,[HDWR-PULL] Timing HTD 5mm x 24-Tooth Hex Bore (3417-4008-0024),1,Under Editing,"5mm HTD Pitch Set Screw Pinion Timing Belt Pulley (8mm REX Bore, 24 Tooth)",,8.99,Purchased
 [HDWR-BRNG-BALL-UK-F] 8mm x 13.2mm x 3.5mm (57155K622).SLDPRT,57155K622,57155K622,2,Under Editing,Stainless Steel Ball Bearing,,,
-\"[ARM-B-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT\",Default,\"[ARM-B-LEFT-A-INNR-00] Side Plate (Left, Inner)\",1,Under Editing,,,,
+"[ARM-B-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Default,"[ARM-B-LEFT-A-INNR-00] Side Plate (Left, Inner)",1,Under Editing,,,,
 [ARM-B-COMN-04] Core.SLDPRT,Left,[ARM-B-COMN-04] Core,1,Under Editing,,,,Built
-[HDWR-FSTR-SCRW] Steel Pan Head Screw M3 x 25mm.SLDPRT,Simple,[HDWR-FSTR-SCRW] Steel Pan Head Screw M3 x 25mm,6,Under Editing,\"JIS Steel Pan Head Screws M3 x 0.5 mm Thread, 25 mm Long\",,13.00/25,Purchased
+[HDWR-FSTR-SCRW] Steel Pan Head Screw M3 x 25mm.SLDPRT,Simple,[HDWR-FSTR-SCRW] Steel Pan Head Screw M3 x 25mm,6,Under Editing,"JIS Steel Pan Head Screws M3 x 0.5 mm Thread, 25 mm Long",,13.00/25,Purchased
 Part4^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,Part4^[ARM-B-B] Wrist Servo Cable Cage,2,Under Editing,,,,
 [ARM-B-B-COMN-02] Pull Plate.SLDPRT,Default,[ARM-B-B-COMN-02] Pull Plate,2,Under Editing,,,,Built
 Part1^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,Part1^[ARM-B-B] Wrist Servo Cable Cage,2,Under Editing,,,,
 [ARM-B-B-COMN] Cable Pulley Plate (Top).SLDPRT,Default,[ARM-B-B-COMN] Cable Pulley Plate (Top),2,Under Editing,,ANY,,Purchased
-[HDWR-FSTR-NUT] BRRLWLDNUT #4-40-D.SLDPRT,90596A111,90596A111,8,Under Editing,\"Steel Round-Base Weld Nut Zinc-Plated, 4-40 Thread Size\",,10.58/100,Purchased
+[HDWR-FSTR-NUT] BRRLWLDNUT #4-40-D.SLDPRT,90596A111,90596A111,8,Under Editing,"Steel Round-Base Weld Nut Zinc-Plated, 4-40 Thread Size",,10.58/100,Purchased
 Part3^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,Part3^[ARM-B-B] Wrist Servo Cable Cage,2,Under Editing,,,,
-[ELEC-SRVO-HORN] Low Profile 25-Tooth (1906-0025-0032).SLDPRT,Default,[ELEC-SRVO-HORN] Low Profile 25-Tooth (1906-0025-0032),2,Under Editing,\"1906 Series Low-Profile Servo Hub (25 Tooth Spline, 32mm Diameter)\",ANY,6.99,Purchased
+[ELEC-SRVO-HORN] Low Profile 25-Tooth (1906-0025-0032).SLDPRT,Default,[ELEC-SRVO-HORN] Low Profile 25-Tooth (1906-0025-0032),2,Under Editing,"1906 Series Low-Profile Servo Hub (25 Tooth Spline, 32mm Diameter)",ANY,6.99,Purchased
 [ARM-B-B-COMN] Cable Pulley Plate (Bottom).SLDPRT,Default,[ARM-B-B-COMN] Cable Pulley Plate (Bottom),2,Under Editing,,ANY,,Purchased
-[ARM-B-COMN-03] Bearing Spacer.SLDPRT,Default,[ARM-B-COMN-03] Bearing Spacer,1,Under Editing,\"5mm HTD Pitch Aluminum Hub Mount Timing Belt Pulley (14mm Bore, 24 Tooth)\",,7.99,Purchased
-[HDWR-FSTR-NUT] NYHXNUT M3.SLDPRT,Simple,[HDWR-FSTR-NUT] NYHXNUT M3,6,Under Editing,\"Medium-Strength Steel Nylon-Insert Locknut Class 8, Zinc Plated, M3 x 0.5 mm Thread, 4 mm High\",,4.65/100,Purchased
-\"[ARM-B-COVR-00-L-INNR] Upper Arm Covering (Left, Inner).SLDPRT\",Default,\"[ARM-B-COVR-00-L-INNR] Upper Arm Covering (Left, Inner)\",1,Under Editing,,,,
+[ARM-B-COMN-03] Bearing Spacer.SLDPRT,Default,[ARM-B-COMN-03] Bearing Spacer,1,Under Editing,"5mm HTD Pitch Aluminum Hub Mount Timing Belt Pulley (14mm Bore, 24 Tooth)",,7.99,Purchased
+[HDWR-FSTR-NUT] NYHXNUT M3.SLDPRT,Simple,[HDWR-FSTR-NUT] NYHXNUT M3,6,Under Editing,"Medium-Strength Steel Nylon-Insert Locknut Class 8, Zinc Plated, M3 x 0.5 mm Thread, 4 mm High",,4.65/100,Purchased
+"[ARM-B-COVR-00-L-INNR] Upper Arm Covering (Left, Inner).SLDPRT",Default,"[ARM-B-COVR-00-L-INNR] Upper Arm Covering (Left, Inner)",1,Under Editing,,,,
 [HDWR-FSTR-WASH] Split Lock Washer M4 (2809-0004-0007).SLDPRT,Compressed,[HDWR-FSTR-WASH] Split Lock Washer M4 (2809-0004-0007),2,Under Editing,2809 Series Zinc-Plated Steel Split-Lock Washer (4mm ID x 7mm OD) - 25 Pack,ANY,2.49/25,Purchased
-[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 5 ̸ 8.SLDPRT,Simple,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 5 ̸ 8,2,Under Editing,\"Female Threaded Hex Standoff 18-8 Stainless Steel, 3/16\"\" Hex, 5/8\"\" Long, 4-40 Thread\",,2.62,Purchased
+[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 5 ̸ 8.SLDPRT,Simple,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 5 ̸ 8,2,Under Editing,"Female Threaded Hex Standoff 18-8 Stainless Steel, 3/16\" Hex, 5/8\" Long, 4-40 Thread",,2.62,Purchased
 [ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount,[ARM-B-A-COMN-01] Pull Plate,1,Under Editing,,,,Built
 [HDWR-FSTR-WASH] Delrin Washer 6mm x 8mm x 1mm (1500-0010-0006).SLDPRT,Default,[HDWR-FSTR-WASH] Delrin Washer 6mm x 8mm x 1mm (1500-0010-0006),3,Under Editing,1500 Series Plastic Spacer,,2.79/12,Purchased
 H_Bridge.SLDPRT,Default,H_Bridge,1,Under Editing,,,,
-[HDWR-PULL] Timing HTD 5mm x 24-Tooth (3411-0014-0024).SLDPRT,Default,[HDWR-PULL] Timing HTD 5mm x 24-Tooth (3411-0014-0024),1,Under Editing,\"5mm HTD Pitch Aluminum Hub Mount Timing Belt Pulley (14mm Bore, 24 Tooth)\",,7.99,Purchased
-[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032).SLDPRT,Default,[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032),1,Under Editing,\"32mm ID Flanged Ball Bearing (39mm OD, 5mm Thickness)\",ANY,,
+[HDWR-PULL] Timing HTD 5mm x 24-Tooth (3411-0014-0024).SLDPRT,Default,[HDWR-PULL] Timing HTD 5mm x 24-Tooth (3411-0014-0024),1,Under Editing,"5mm HTD Pitch Aluminum Hub Mount Timing Belt Pulley (14mm Bore, 24 Tooth)",,7.99,Purchased
+[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032).SLDPRT,Default,[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032),1,Under Editing,"32mm ID Flanged Ball Bearing (39mm OD, 5mm Thickness)",ANY,,
 Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,Belt1-1^[ARM-B-LEFT] Upper Arm (Left),1,Under Editing,,,,
 [ARM-B-COMN-08] Elbow Pulley Spacer.SLDPRT,Default,[ARM-B-COMN-08] Elbow Pulley Spacer,2,Under Editing,,,,
 [HDWR-PULL-ARC] Arc Slot Bracket.SLDPRT,Default,[HDWR-PULL-ARC] Arc Slot Bracket,1,Under Editing,1524 Series Arc-Slot Tensioner Bracket,,,
 [HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] NYHXNUT #6-32-D,23,Under Editing,Nylock Hex Nut #6-32 (MCMC 91831A007),,,
-\"[ARM-B-COVR-00-L-OUTR] Upper Arm Covering (Left, Outer).SLDPRT\",Default,\"[ARM-B-COVR-00-L-OUTR] Upper Arm Covering (Left, Outer)\",1,Under Editing,,,,
-[HDWR-SHFT] 8mm REX Shaft 110mm.SLDPRT,48mm,[HDWR-SHFT] 8mm REX Shaft 110mm,1,Under Editing,\"Stainless Steel REX Shaft (8mm Diameter, 110mm Length)\",ANY,3.99,Purchased
+"[ARM-B-COVR-00-L-OUTR] Upper Arm Covering (Left, Outer).SLDPRT",Default,"[ARM-B-COVR-00-L-OUTR] Upper Arm Covering (Left, Outer)",1,Under Editing,,,,
+[HDWR-SHFT] 8mm REX Shaft 110mm.SLDPRT,48mm,[HDWR-SHFT] 8mm REX Shaft 110mm,1,Under Editing,"Stainless Steel REX Shaft (8mm Diameter, 110mm Length)",ANY,3.99,Purchased
 [HDWR-FSTR-WASH] 316 Stainless Steel Round Shim (90214A225).SLDPRT,90214A225,90214A225,2,Under Editing,316 Stainless Steel Ring Shim,,12.48/10,Purchased
-[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 7 ̸ 8.SLDPRT,Simple,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 7 ̸ 8,28,Under Editing,\"Female Threaded Hex Standoff Aluminum, 3/16\"\" Hex, 7/8\"\" Long, 4-40 Thread\",,0.92,Purchased
+[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 7 ̸ 8.SLDPRT,Simple,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 7 ̸ 8,28,Under Editing,"Female Threaded Hex Standoff Aluminum, 3/16\" Hex, 7/8\" Long, 4-40 Thread",,0.92,Purchased
 [ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount Extended,[ARM-B-A-COMN-01] Pull Plate,1,Under Editing,,,,Built
 [HDWR-FSTR-WASH] Delrin Washer 8mm x 10mm x 1mm (1500-0010-0008).SLDPRT,Default,[HDWR-FSTR-WASH] Delrin Washer 8mm x 10mm x 1mm (1500-0010-0008),4,Under Editing,1500 Series Plastic Spacer,ANY,2.89/12,Purchased
 [HDWR-CABL-ARM] Lift Pulley Cabling.SLDPRT,Default,[HDWR-CABL-ARM] Lift Pulley Cabling,1,Under Editing,18-8 Stainless Steel Corrosion-Resistant Wire Rope,,,Purchased
@@ -582,10 +582,10 @@ Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,Belt1-1^[ARM-B-LEFT] Upper 
 [HDWR-PULL] Timing T5 22-Tooth (A 6A34M022T16).SLDPRT,ARM Hug Output,[HDWR-PULL] Timing T5 22-Tooth (A 6A34M022T16),1,Under Editing,,,,
 [HDWR-BRNG-BALL-US-S] 5 ̸ 8 x 7 ̸ 8 x 5 ̸ 32 (R1458-ZZ or ServoCity 535028).SLDPRT,Default,[HDWR-BRNG-BALL-US-S] 5 ̸ 8 x 7 ̸ 8 x 5 ̸ 32 (R1458-ZZ or ServoCity 535028),1,Under Editing,Double-Shielded Ball Bearing 5/8 ID x 7/8 OD x 5/32 W (R1458-ZZ or ServoCity 535028),,,
 [HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008).SLDPRT,Arm - Outer,[HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008),1,Under Editing,Sonic Hub (8mm REX Bore),,,
-\"[ARM-C-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT\",Curvilinear Pulleys,\"[ARM-C-LEFT-A-OUTR-00] Side Plate (Left, Outer)\",1,Under Editing,,,,
+"[ARM-C-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Curvilinear Pulleys,"[ARM-C-LEFT-A-OUTR-00] Side Plate (Left, Outer)",1,Under Editing,,,,
 [ARM-C-COMN-00] Front Plate.SLDPRT,Default,[ARM-C-COMN-00] Front Plate,1,Under Editing,,,,
 [HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008).SLDPRT,Arm - Inner,[HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008),1,Under Editing,Sonic Hub (8mm REX Bore),,,
-\"[ARM-C-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT\",Curvilinear Pulleys,\"[ARM-C-LEFT-A-INNR-00] Side Plate (Left, Inner)\",1,Under Editing,,,,
+"[ARM-C-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Curvilinear Pulleys,"[ARM-C-LEFT-A-INNR-00] Side Plate (Left, Inner)",1,Under Editing,,,,
 [ARM-C-COMN-01] Top Plate.SLDPRT,Default,[ARM-C-COMN-01] Top Plate,1,Under Editing,,,,
 [ARM-C-COMN-02] Bottom Plate.SLDPRT,Default,[ARM-C-COMN-02] Bottom Plate,1,Under Editing,,,,
 [HDWR-MISC] Rubber Bellows 3 ̸ 4'' ID (HEAD).SLDPRT,Default,[HDWR-MISC] Rubber Bellows 3 ̸ 4'' ID (HEAD),1,Under Editing,,,,
@@ -749,9 +749,9 @@ Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,Belt1-1^[ARM-B-LEFT] Upper 
 [HDWR-BRNG-SLV] Sleeve Bearing 10mm x 12mm x 22mm (7811K153).SLDPRT,7811K153,7811K153,2,Under Editing,Multipurpose 660 Leaded Sleeve Bearing,,10.64,Purchased
 [TDRV-COMN-01] Idler Spacer.SLDPRT,Default,[TDRV-COMN-01] Idler Spacer,10,Under Editing,Provides spacing between the side plates and idler discs. Not for front idler assembly.,,,
 [TDRV-COMN-A-COMN-05] Printed Sprocket Spacer.SLDPRT,Default,[TDRV-COMN-A-COMN-05] Printed Sprocket Spacer,4,Under Editing,,,,
-[TDRV-COMN-A-COMN-01] Bushing.SLDPRT,Default,[TDRV-COMN-A-COMN-01] Bushing,4,Under Editing,Mounting surface for the front 7\" disc. Also minimizes drive sprocket \"play.\",,,
+[TDRV-COMN-A-COMN-01] Bushing.SLDPRT,Default,[TDRV-COMN-A-COMN-01] Bushing,4,Under Editing,Mounting surface for the front 7\" disc. Also minimizes drive sprocket \"play.",,,
 [HDWR-GEAR] Martin 40-Tooth Sprocket (35BS40 3 ̸ 4).SLDPRT,TDRV Front Idler (BB150) Without Outer Cap,[HDWR-GEAR] Martin 40-Tooth Sprocket (35BS40 3 ̸ 4),2,Under Editing,,,,
-[HDWR-SHFT] Clamping Shaft Collar 3 ̸ 4 x 1-1 ̸ 2 x 1 ̸ 2.SLDPRT,6435K16,6435K16,2,Under Editing,\"Clamping Shaft Collar for 3/4\"\" Diameter, Black-Oxide 1215 Carbon Steel\",,,
+[HDWR-SHFT] Clamping Shaft Collar 3 ̸ 4 x 1-1 ̸ 2 x 1 ̸ 2.SLDPRT,6435K16,6435K16,2,Under Editing,"Clamping Shaft Collar for 3/4\" Diameter, Black-Oxide 1215 Carbon Steel",,,
 [TDRV-COMN-A-COMN-04-CHNSPKT) Spacer (Chain Sprocket).SLDPRT,Default,[TDRV-COMN-A-COMN-04-CHNSPKT) Spacer (Chain Sprocket),2,Under Editing,Provides spacing between the outer side plate and front idler assembly.,,,
 [TDRV-COMN-A-COMN-02] 7-Inch Disc.SLDPRT,Default,[TDRV-COMN-A-COMN-02] 7-Inch Disc,4,Under Editing,The underside of track links glide along the circular profile. Front idler assembly only.,,,
 [HDWR-GEAR] Uni-Chains 29-Tooth Sprocket (123381529N).SLDPRT,.5\" Thick for multi-part,[HDWR-GEAR] Uni-Chains 29-Tooth Sprocket (123381529N),6,Under Editing,Uni-Chains 29-Tooth Sprocket (123381529N),,,
@@ -764,9 +764,9 @@ Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,Belt1-1^[ARM-B-LEFT] Upper 
 [HDWR-BELT] HKK Chain #35 Master Link.SLDPRT,Default,[HDWR-BELT] HKK Chain #35 Master Link,3,Under Editing,,,,
 [TDRV-COMN-05] Quick-Release Collar Bushing.SLDPRT,Default,[TDRV-COMN-05] Quick-Release Collar Bushing,2,Under Editing,Prevents scraping of metal between the cradle base and track drive.,,,
 [TDRV-COVR-03] TDRV Motor Covering.SLDPRT,Mirrored,[TDRV-COVR-03] TDRV Motor Covering,1,Under Editing,,,,
-[TDRV-COMN-C-COMN-00] Bearing Axle.SLDPRT,Default,[TDRV-COMN-C-COMN-00] Bearing Axle,2,Under Editing,\"Axle for mounting of the rear idler tube, discs, and tensioner assembly; will not rotate.\",,,
+[TDRV-COMN-C-COMN-00] Bearing Axle.SLDPRT,Default,[TDRV-COMN-C-COMN-00] Bearing Axle,2,Under Editing,"Axle for mounting of the rear idler tube, discs, and tensioner assembly; will not rotate.",,,
 [TDRV-COMN-C-COMN-01] 7-Inch Disc.SLDPRT,Default,[TDRV-COMN-C-COMN-01] 7-Inch Disc,4,Under Editing,The underside of track links glide along the circular profile. Rear idler assembly only.,,,
-[TDRV-COMN-03] Idler Tube Collar.SLDPRT,Default,[TDRV-COMN-03] Idler Tube Collar,8,Under Editing,\"When attached to an idler tube, provides a mounting surface for the circular disc.\",,,
+[TDRV-COMN-03] Idler Tube Collar.SLDPRT,Default,[TDRV-COMN-03] Idler Tube Collar,8,Under Editing,"When attached to an idler tube, provides a mounting surface for the circular disc.",,,
 [TDRV-COMN-02] Idler Tube.SLDPRT,3-Piece System,[TDRV-COMN-02] Idler Tube,4,Under Editing,Allows rear 7\" and top 10\" idler discs to be attached. Three-piece version.,,,
 [HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] NYHXNUT #10-24-D,6,Under Editing,Nylock Hex Nut #10-24 (MCMC 91831A011),,,
 [HDWR-FSTR-ROD] Fully Threaded Stud #10-24 x 2-3 ̸ 4.SLDPRT,Default,[HDWR-FSTR-ROD] Fully Threaded Stud #10-24 x 2-3 ̸ 4,4,Under Editing,Threaded Rod #10-24 x 2-3/4\" (MCMC 90575A364),,,
@@ -795,7 +795,7 @@ Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,Belt1-1^[ARM-B-LEFT] Upper 
 [ELEC-MOTR-BBPS-COMN-03] Retaining Ring 0500 - Mcm 98410A122_98410A122.SLDPRT,Default,[ELEC-MOTR-BBPS-COMN-03] Retaining Ring 0500 - Mcm 98410A122_98410A122,4,Under Editing,,,,
 [ELEC-MOTR-BBPS-COMN-06] 16T Sun Gear.SLDPRT,Heavy Duty,[ELEC-MOTR-BBPS-COMN-06] 16T Sun Gear,3,Under Editing,,,,
 [ELEC-MOTR-BBPS-COMN-11] Thrust washer.SLDPRT,Default,[ELEC-MOTR-BBPS-COMN-11] Thrust washer,3,Under Editing,,,,
-[HDWR-GEAR] VexPro 15-Tooth Sprocket (217-5844).SLDPRT,Default,[HDWR-GEAR] VexPro 15-Tooth Sprocket (217-5844),2,Under Editing,\"Vex Pro 15t Steel Hub Sprocket (#35 Steel, 1/2\"\" Hex Bore)\",,16.99,Purchased
+[HDWR-GEAR] VexPro 15-Tooth Sprocket (217-5844).SLDPRT,Default,[HDWR-GEAR] VexPro 15-Tooth Sprocket (217-5844),2,Under Editing,"Vex Pro 15t Steel Hub Sprocket (#35 Steel, 1/2\" Hex Bore)",,16.99,Purchased
 [TDRV-COMN-B-COMN-00] 10-Inch Disc.SLDPRT,Default,[TDRV-COMN-B-COMN-00] 10-Inch Disc,4,Under Editing,The underside of track links glide along the circular profile. Top idler assembly only.,,,
 [TDRV-COMN-B-V1-COMN-00] Bearing Axle.SLDPRT,Default,[TDRV-COMN-B-V1-COMN-00] Bearing Axle,2,Under Editing,Axle for mounting of the top idler tube and discs; will not rotate.,,,
 [HDWR-FSTR-NUT] NYHXNUT 3 ̸ 8-16-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] NYHXNUT 3 ̸ 8-16-D,2,Under Editing,Nylock Hex Nut 3/8\"-16 (MCMC 97135A230),,,
@@ -822,22 +822,22 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [ELEC-BATT-JBDSP04S020] Front plate.SLDPRT,Default,[ELEC-BATT-JBDSP04S020] Front plate,2,Under Editing,,,,
 [ELEC-BATT-JBDSP04S020] Rear plate.SLDPRT,Default,[ELEC-BATT-JBDSP04S020] Rear plate,2,Under Editing,,,,
 [TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case,2,Under Editing,,,,
-[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,9\",[HDWR-FSTR-ROD] Fully Threaded Stud #6-32,8,Under Editing,,,,Purchased
+[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,9",[HDWR-FSTR-ROD] Fully Threaded Stud #6-32,8,Under Editing,,,,Purchased
 [ELEC-CONN] Anderson SB50 Pull Handle.SLDPRT,Default,[ELEC-CONN] Anderson SB50 Pull Handle,2,Under Editing,,,,
 [ELEC-BATT-EV105AH] BLS EV-105AH 3.2V LiFePO4 Battery.SLDPRT,Default,[ELEC-BATT-EV105AH] BLS EV-105AH 3.2V LiFePO4 Battery,8,Under Editing,BLS Battery Industries EV-105AH 3.2V 105Ah LiFePO4 Battery,,$100.00ea,Purchased
 [TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,[TDRV-COMN-F-EV105-COMN] Full Case,2,Under Editing,,,,
 [TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate,2,Under Editing,,,,
 [TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell,2,Under Editing,,,,Built
-[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,7\",[HDWR-FSTR-ROD] Fully Threaded Stud #6-32,2,Under Editing,,,,Purchased
-\"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT\",Default,\"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped)\",4,Under Editing,Holds and protects the drive gear bearings. Attaches to the inside of the outer side plate.,,,
-\"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer).SLDPRT\",Default,\"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer)\",1,Under Editing,Outer side plate for the right track drive.,,,
+[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,7",[HDWR-FSTR-ROD] Fully Threaded Stud #6-32,2,Under Editing,,,,Purchased
+"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped)",4,Under Editing,Holds and protects the drive gear bearings. Attaches to the inside of the outer side plate.,,,
+"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer).SLDPRT",Default,"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer)",1,Under Editing,Outer side plate for the right track drive.,,,
 [TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,[TDRV-COMN-E-COMN-00] Tension Adjustment Block,4,Under Editing,Attaches to the rear of the side plates; used with the track tensioner assembly.,,,
 [TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,[TDRV-COMN-F-EV105-COMN] Back Mount,2,Under Editing,,,,
 [TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,[TDRV-COMN-F-EV105-COMN] Front Mount,2,Under Editing,,,,
 [TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,[TDRV-COMN-10] Motor Covering Mount,2,Under Editing,,,,Built
 [HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 5 ̸ 16 x 5 ̸ 16.SLDPRT,92510A543,92510A543,4,Under Editing,Aluminum Unthreaded Spacer,,1.46,Purchased
 [TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate,2,Under Editing,,,,
-\"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner).SLDPRT\",Default,\"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner)\",1,Under Editing,Inner side plate for the right track drive.,,,
+"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner).SLDPRT",Default,"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner)",1,Under Editing,Inner side plate for the right track drive.,,,
 [TDRV-COVR-00] Side Covering.SLDPRT,Right Side,[TDRV-COVR-00] Side Covering,1,Under Editing,,,,
 [ELEC-CPU-SYREN50] SyRen 50.SLDPRT,Default,[ELEC-CPU-SYREN50] SyRen 50,2,Under Editing,,,,
 [TDRV-COMN-12] Accessory Mounting Plate.SLDPRT,Default,[TDRV-COMN-12] Accessory Mounting Plate,2,Under Editing,,,,
@@ -889,17 +889,17 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 16 x 0.02.SLDPRT,97022A883,97022A883,4,Under Editing,316 Stainless Steel Ring Shim,,8.94/5,Purchased
 [HDWR-BRNG-BALL-US-F] 3 ̸ 16 x 1 ̸ 2 x 5 ̸ 32 (R3-2Z).SLDPRT,57155K321,57155K321,2,Under Editing,Stainless Steel Ball Bearing,,6.72,Purchased
 [HDWR-FSTR-NUT] NYHXNUT #10-32-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] NYHXNUT #10-32-D,2,Under Editing,Nylock Hex Nut #10-32 (MCMC 91831A411),,,
-[HDWR-FSTR-WASH] Flat Washer #8 Screw Size (SAE Regular).SLDPRT,Default,[HDWR-FSTR-WASH] Flat Washer #8 Screw Size (SAE Regular),2,Under Editing,\"Flat Washer #8 Screw Size (SAE Regular, MCMC 94744A224)\",,,
+[HDWR-FSTR-WASH] Flat Washer #8 Screw Size (SAE Regular).SLDPRT,Default,[HDWR-FSTR-WASH] Flat Washer #8 Screw Size (SAE Regular),2,Under Editing,"Flat Washer #8 Screw Size (SAE Regular, MCMC 94744A224)",,,
 [TLWR-A-V2-A-COMN-00] Tie Bar.SLDPRT,Default,[TLWR-A-V2-A-COMN-00] Tie Bar,2,Under Editing,,,,
 [TDRV-COMN-11] Outer Wire Channel.SLDPRT,Default,[TDRV-COMN-11] Outer Wire Channel,1,Under Editing,,,,
-\"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT\",Default,\"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer)\",1,Under Editing,Outer side plate for the left track drive.,,,
-\"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT\",Default,\"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner)\",1,Under Editing,Inner side plate for the left track drive.,,,
+"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Default,"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer)",1,Under Editing,Outer side plate for the left track drive.,,,
+"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Default,"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner)",1,Under Editing,Inner side plate for the left track drive.,,,
 [TDRV-COVR-01-L] Shield Covering (Left).SLDPRT,Default,[TDRV-COVR-01-L] Shield Covering (Left),1,Under Editing,,,,
 [TDRV-COVR-02-L] Accessory Covering (Left).SLDPRT,Default,[TDRV-COVR-02-L] Accessory Covering (Left),1,Under Editing,,,,
 [TDRV-COVR-COMN-00] Shield Covering Stiffening Plate.SLDPRT,Left,[TDRV-COVR-COMN-00] Shield Covering Stiffening Plate,1,Under Editing,,,,
 [TDRV-COVR-00] Side Covering.SLDPRT,Left Side,[TDRV-COVR-00] Side Covering,1,Under Editing,,,,
 [TDRV-COVR-03] TDRV Motor Covering.SLDPRT,Default,[TDRV-COVR-03] TDRV Motor Covering,1,Under Editing,,,,
-[DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,\"Modified (Side-Facing, Top)\",[DTL-APP] Anderson Powerpole Connector (PP15),1,Under Editing,,,,
+[DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,"Modified (Side-Facing, Top)",[DTL-APP] Anderson Powerpole Connector (PP15),1,Under Editing,,,,
 [DTL-DIP14] 14-Pin DIP.SLDPRT,Modified (Chopped & No Pins),[DTL-DIP14] 14-Pin DIP,5,Under Editing,,,,
 [DTL-CAP2BUTTON] Capacitor Button.SLDPRT,Default,[DTL-CAP2BUTTON] Capacitor Button,3,Under Editing,,,,
 [TLWR-COVR-MSTR-COMN-00] Complete Covering.SLDPRT,Default,[TLWR-COVR-MSTR-COMN-00] Complete Covering,1,Under Editing,,,,
@@ -907,7 +907,7 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [DTL-DIP24] 24-Pin DIP Socket.SLDPRT,Default,[DTL-DIP24] 24-Pin DIP Socket,1,Under Editing,,,,
 [DTL-CHOKE] RF Choke.SLDPRT,Default,[DTL-CHOKE] RF Choke,1,Under Editing,,,,
 [DTL-TO39] TO-39 Package.SLDPRT,Modified,[DTL-TO39] TO-39 Package,2,Under Editing,,,,
-[DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,\"Modified (Side-Facing, Bottom)\",[DTL-APP] Anderson Powerpole Connector (PP15),1,Under Editing,,,,
+[DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,"Modified (Side-Facing, Bottom)",[DTL-APP] Anderson Powerpole Connector (PP15),1,Under Editing,,,,
 [DTL-DIP20PKG] 20-Pin DIP Socket & ICs.SLDPRT,Default,[DTL-DIP20PKG] 20-Pin DIP Socket & ICs,1,Under Editing,,,,
 [DTL-RES-TLWR] Power Resistor (Lower Torso).SLDPRT,Default,[DTL-RES-TLWR] Power Resistor (Lower Torso),1,Under Editing,,,,
 [DTL-DIP14] 14-Pin DIP.SLDPRT,Modified (No Pins),[DTL-DIP14] 14-Pin DIP,4,Under Editing,,,,
@@ -917,15 +917,15 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [TLWR-COVR-C-COMN-01] Torque Rod.SLDPRT,Default,[TLWR-COVR-C-COMN-01] Torque Rod,2,Under Editing,,,,
 [TLWR-COVR-B-COMN-01] Detail Block 01.sldprt,Default,[TLWR-COVR-B-COMN-01] Detail Block 01,1,Under Editing,,,,
 [TLWR-COVR-B-COMN-04] Detail Block 04.sldprt,Default,[TLWR-COVR-B-COMN-04] Detail Block 04,1,Under Editing,,,,
-\"[TLWR-COVR-B-COMN-06-R-LWR] Panel (Right, Lower).sldprt\",Default,\"[TLWR-COVR-B-COMN-06-R-LWR] Panel (Right, Lower)\",1,Under Editing,,,,
+"[TLWR-COVR-B-COMN-06-R-LWR] Panel (Right, Lower).sldprt",Default,"[TLWR-COVR-B-COMN-06-R-LWR] Panel (Right, Lower)",1,Under Editing,,,,
 [TLWR-B-B-02] Secondary Arm.SLDPRT,Top (Standard),[TLWR-B-B-02] Secondary Arm,1,Under Editing,,,,
 [TLWR-B-B-01] Lower Servo Arm.SLDPRT,Standard,[TLWR-B-B-01] Lower Servo Arm,1,Under Editing,,,,
 [ELEC-SRVO-HORN] Round Horn (HMSH-02).SLDPRT,TLWR Console Door Servo,[ELEC-SRVO-HORN] Round Horn (HMSH-02),1,Under Editing,,,3.25,Purchased
 [TLWR-COVR-B-COMN-00-LWR] Console Section Half (Lower).sldprt,Standard,[TLWR-COVR-B-COMN-00-LWR] Console Section Half (Lower),1,Under Editing,,,,
 [TLWR-COVR-B-COMN-02] Detail Block 02.sldprt,Default,[TLWR-COVR-B-COMN-02] Detail Block 02,1,Under Editing,,,,
-\"[TLWR-COVR-B-COMN-05-L-LWR] Panel (Left, Lower).sldprt\",Default,\"[TLWR-COVR-B-COMN-05-L-LWR] Panel (Left, Lower)\",1,Under Editing,,,,
+"[TLWR-COVR-B-COMN-05-L-LWR] Panel (Left, Lower).sldprt",Default,"[TLWR-COVR-B-COMN-05-L-LWR] Panel (Left, Lower)",1,Under Editing,,,,
 [TLWR-B-C-COMN-01] Bottom Mounting Plate.SLDPRT,Standard,[TLWR-B-C-COMN-01] Bottom Mounting Plate,1,Under Editing,,,,
-\"[TLWR-COVR-B-COMN-06-R-UPR] Panel (Right, Upper).sldprt\",Default,\"[TLWR-COVR-B-COMN-06-R-UPR] Panel (Right, Upper)\",1,Under Editing,,,,
+"[TLWR-COVR-B-COMN-06-R-UPR] Panel (Right, Upper).sldprt",Default,"[TLWR-COVR-B-COMN-06-R-UPR] Panel (Right, Upper)",1,Under Editing,,,,
 [TLWR-B-B-02] Secondary Arm.SLDPRT,Bottom (Standard),[TLWR-B-B-02] Secondary Arm,1,Under Editing,,,,
 [TLWR-B-A-COMN-02] Ring.SLDPRT,Default,[TLWR-B-A-COMN-02] Ring,1,Under Editing,,,,
 [ELEC-BULB-LED5] Kingbright Red LED.SLDPRT,Bent (Cathode Left),[ELEC-BULB-LED5] Kingbright Red LED,1,Under Editing,,,,
@@ -942,7 +942,7 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [ELEC-BULB-PNLLAMP] Square Panel-Mount Indicator.SLDPRT,Modified,[ELEC-BULB-PNLLAMP] Square Panel-Mount Indicator,2,Under Editing,,,,
 [TLWR-COVR-B-COMN-00-UPR] Console Section Half (Upper).sldprt,Standard,[TLWR-COVR-B-COMN-00-UPR] Console Section Half (Upper),1,Under Editing,,,,
 [TLWR-COVR-B-COMN-03] Detail Block 03.sldprt,Default,[TLWR-COVR-B-COMN-03] Detail Block 03,1,Under Editing,,,,
-\"[TLWR-COVR-B-COMN-05-L-UPR] Panel (Left, Upper).sldprt\",Default,\"[TLWR-COVR-B-COMN-05-L-UPR] Panel (Left, Upper)\",1,Under Editing,,,,
+"[TLWR-COVR-B-COMN-05-L-UPR] Panel (Left, Upper).sldprt",Default,"[TLWR-COVR-B-COMN-05-L-UPR] Panel (Left, Upper)",1,Under Editing,,,,
 [TLWR-B-C-COMN-00] Servo Mounting Plate.SLDPRT,Standard,[TLWR-B-C-COMN-00] Servo Mounting Plate,1,Under Editing,,,,
 [TLWR-B-B-00] Primary Servo Arm.SLDPRT,Standard,[TLWR-B-B-00] Primary Servo Arm,1,Under Editing,,,,
 [DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,Modified (Up-Facing),[DTL-APP] Anderson Powerpole Connector (PP15),5,Under Editing,,,,
@@ -1002,7 +1002,7 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [CRDL-COVR-01-L] Top Rear Covering (Left).SLDPRT,Default,[CRDL-COVR-01-L] Top Rear Covering (Left),1,Under Editing,,,,
 [CRDL-V3-A-00] Top Plate.SLDPRT,Default,[CRDL-V3-A-00] Top Plate,1,Under Editing,,,,
 [CRDL-COVR-02-R] Side Covering (Right).SLDPRT,Default,[CRDL-COVR-02-R] Side Covering (Right),1,Under Editing,,,,
-[HDWR-FSTR-NUT] Binding Barrel #8-32-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] Binding Barrel #8-32-D,16,Under Editing,\"Steel Binding Barrels, 8-32 Thread Size, 1/4\"\" Long\",,8.74/25,Purchased
+[HDWR-FSTR-NUT] Binding Barrel #8-32-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] Binding Barrel #8-32-D,16,Under Editing,"Steel Binding Barrels, 8-32 Thread Size, 1/4\" Long",,8.74/25,Purchased
 [CRDL-COMN-00] 3-Inch Bearing Collar.SLDPRT,Two Piece,[CRDL-COMN-00] 3-Inch Bearing Collar,2,Under Editing,,,,
 [CRDL-COMN-B-COMN-00-R] G-Plate (Right).SLDPRT,Default,[CRDL-COMN-B-COMN-00-R] G-Plate (Right),1,Under Editing,,,,
 [CRDL-COMN-01] IDC Actuator Mounting Block.SLDPRT,Default,[CRDL-COMN-01] IDC Actuator Mounting Block,2,Under Editing,,,,
@@ -1015,14 +1015,14 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [ELEC-MOTR-BB150-B-COMN-00] Shaft.SLDPRT,Stock,[ELEC-MOTR-BB150-B-COMN-00] Shaft,1,Under Editing,Keyed Output Shaft,,,Purchased
 [CRDL-COMN-D-B-COMN-02-LONG] 10-Tooth Sprocket Spacer (Long).SLDPRT,Default,[CRDL-COMN-D-B-COMN-02-LONG] 10-Tooth Sprocket Spacer (Long),1,Under Editing,,,,
 [CRDL-COMN-D-COMN-03] Wire Passthrough.SLDPRT,Default,[CRDL-COMN-D-COMN-03] Wire Passthrough,1,Under Editing,,,,
-\"[CRDL-COMN-D-COMN-01-OUTR-RGHT] Side Plate (Outer, Right).SLDPRT\",Default,\"[CRDL-COMN-D-COMN-01-OUTR-RGHT] Side Plate (Outer, Right)\",1,Under Editing,,,,
+"[CRDL-COMN-D-COMN-01-OUTR-RGHT] Side Plate (Outer, Right).SLDPRT",Default,"[CRDL-COMN-D-COMN-01-OUTR-RGHT] Side Plate (Outer, Right)",1,Under Editing,,,,
 [CRDL-COMN-D-COMN-04] Potentiometer Sprocket.SLDPRT,Default,[CRDL-COMN-D-COMN-04] Potentiometer Sprocket,1,Under Editing,,,,
 [HDWR-SHFT] Clamping Shaft Coupling 5 ̸ 8 x 5 ̸ 8 x 1-5 ̸ 16.SLDPRT,Simplified,[HDWR-SHFT] Clamping Shaft Coupling 5 ̸ 8 x 5 ̸ 8 x 1-5 ̸ 16,1,Under Editing,Clamping Shaft Coupling 5/8\" x 5/8\" x 1-5/16\" OD (MCMC 61005K344),,,
 [HDWR-BRNG-SLV] Sleeve Bearing 5 ̸ 8 x 3 ̸ 4 x 1 ̸ 2 (MCMC 6391K241).SLDPRT,Default,[HDWR-BRNG-SLV] Sleeve Bearing 5 ̸ 8 x 3 ̸ 4 x 1 ̸ 2 (MCMC 6391K241),2,Under Editing,Oil-Embedded Sleeve Bearing 5/8\" ID x 3/4\" OD x 1/2\" L (MCMC 6391K241),,,
 [HDWR-FSTR-SCRW] Thread-Locking Socket Button Head Cap Screw 1 ̸ 4-20 x 3 ̸ 8.SLDPRT,Simplified,[HDWR-FSTR-SCRW] Thread-Locking Socket Button Head Cap Screw 1 ̸ 4-20 x 3 ̸ 8,6,Under Editing,,,,
 [HDWR-GEAR] Tsubaki 54-Tooth Sprocket (35B54FJ).SLDPRT,Stock,[HDWR-GEAR] Tsubaki 54-Tooth Sprocket (35B54FJ),1,Under Editing,,,,
-\"[CRDL-COMN-D-COMN-00-INNR-RGHT] Side Plate (Inner, Right).SLDPRT\",Default,\"[CRDL-COMN-D-COMN-00-INNR-RGHT] Side Plate (Inner, Right)\",1,Under Editing,,,,
-\"[CRDL-COMN-D-COMN-00-INNR-LEFT] Side Plate (Inner, Left).SLDPRT\",Default,\"[CRDL-COMN-D-COMN-00-INNR-LEFT] Side Plate (Inner, Left)\",1,Under Editing,,,,
+"[CRDL-COMN-D-COMN-00-INNR-RGHT] Side Plate (Inner, Right).SLDPRT",Default,"[CRDL-COMN-D-COMN-00-INNR-RGHT] Side Plate (Inner, Right)",1,Under Editing,,,,
+"[CRDL-COMN-D-COMN-00-INNR-LEFT] Side Plate (Inner, Left).SLDPRT",Default,"[CRDL-COMN-D-COMN-00-INNR-LEFT] Side Plate (Inner, Left)",1,Under Editing,,,,
 [HDWR-SHFT] Keyed Drive Shaft 5 ̸ 8 x 18.SLDPRT,Modified,[HDWR-SHFT] Keyed Drive Shaft 5 ̸ 8 x 18,1,Under Editing,Keyed Drive Shaft 5/8\" DIA x 18\" L (MCMC 1497K954),,,
 [CRDL-COMN-D-COMN-02] 54-Tooth Sprocket Spacer.SLDPRT,Default,[CRDL-COMN-D-COMN-02] 54-Tooth Sprocket Spacer,1,Under Editing,,,,
 [HDWR-FSTR-SHIM-US] 5 ̸ 8 x 1 x 0.025.SLDPRT,97022A261,97022A261,2,Under Editing,316 Stainless Steel Ring Shim,,0.83,Purchased
@@ -1035,7 +1035,7 @@ Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,Default,1,Unde
 [HDWR-BELT] HKK Chain #40 Inner Link.SLDPRT,Default,[HDWR-BELT] HKK Chain #40 Inner Link,64,Under Editing,,,,
 [HDWR-BELT] HKK Chain #40 Master Link.SLDPRT,Default,[HDWR-BELT] HKK Chain #40 Master Link,2,Under Editing,,,,
 [HDWR-BELT] HKK Chain #40 Outer Link.SLDPRT,Default,[HDWR-BELT] HKK Chain #40 Outer Link,64,Under Editing,,,,
-\"[CRDL-COMN-D-COMN-01-OUTR-LEFT] Side Plate (Outer, Left).SLDPRT\",Default,\"[CRDL-COMN-D-COMN-01-OUTR-LEFT] Side Plate (Outer, Left)\",1,Under Editing,,,,
+"[CRDL-COMN-D-COMN-01-OUTR-LEFT] Side Plate (Outer, Left).SLDPRT",Default,"[CRDL-COMN-D-COMN-01-OUTR-LEFT] Side Plate (Outer, Left)",1,Under Editing,,,,
 [CRDL-COMN-D-COMN-03] Potentiometer Housing.SLDPRT,Default,[CRDL-COMN-D-COMN-03] Potentiometer Housing,1,Under Editing,,,,
 [HDWR-SHFT] Shaft Collar 5 ̸ 8 x 1-5 ̸ 16 x 7 ̸ 16.SLDPRT,Simplified,[HDWR-SHFT] Shaft Collar 5 ̸ 8 x 1-5 ̸ 16 x 7 ̸ 16,1,Under Editing,Shaft Collar 5/8\" ID x 1-5/16\" OD x 7/16\" W (MCMC 6436K150),,,
 [ELEC-POT] Vishay 3-Turn (533-1-1-502).SLDPRT,Default,[ELEC-POT] Vishay 3-Turn (533-1-1-502),1,Under Editing,,,,
