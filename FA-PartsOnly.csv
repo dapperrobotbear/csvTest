@@ -20,7 +20,7 @@ File Name,Configuration,Part Number,Qty,State,Description,Revision,Cost,Part Typ
 [TUPR-C-V2-COMN-01] Front Cross Bar.SLDPRT,Default,[TUPR-C-V2-COMN-01] Front Cross Bar,2,Under Editing,,,,
 [HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400),1,Under Editing,"McMaster-Carr ANSI 25 Chain, 12 Teeth, for 1/4"" Shaft Diameter",,,
 [HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m.SLDPRT,Modified (TUPR Neck Drive; Upper),[HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m,2,Under Editing,Threaded Rod M8 x 1m (MCMC 98942A115),,,
-[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047.SLDPRT,Default,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047,6,Under Editing,Round Shim 1/4"" ID x 3/8"" OD x 0.047"" THK (MCMC 3088A449),,,
+[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047.SLDPRT,Default,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047,6,Under Editing,Round Shim 1/4" ID x 3/8" OD x 0.047" THK (MCMC 3088A449),,,
 [HDWR-FSTR-NUT] HJNUT M8-D.SLDPRT,Simplified,[HDWR-FSTR-NUT] HJNUT M8-D,4,Under Editing,Hex Jam Nut M8 (MCMC 90710A120),,,
 [HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm.SLDPRT,Default,[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm,1,Under Editing,"1611 Series Flanged Ball Bearing (8mm ID x 14mm OD, 5mm Thickness)",,3.99/2,Purchased
 [HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 4.SLDPRT,Default,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 4,5,Under Editing,Unthreaded Spacer 1/4 Screw Size x 1/2"" OD x  1/4"" L (MCMC 92415A862),,,
